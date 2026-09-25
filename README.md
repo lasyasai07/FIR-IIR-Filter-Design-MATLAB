@@ -2,9 +2,7 @@
 Design and analysis of FIR and IIR digital filters using MATLAB
 # FIR & IIR Digital Filter Design Using MATLAB
 
-## 📌 Project Overview
-
-This project focuses on the design and analysis of FIR (Finite Impulse Response) and IIR (Infinite Impulse Response) digital filters using MATLAB.
+This  focuses on the design and analysis of FIR (Finite Impulse Response) and IIR (Infinite Impulse Response) digital filters using MATLAB.
 
 The frequency responses of the filters are analyzed and compared.
 
@@ -71,6 +69,3 @@ The frequency responses of the FIR and IIR filters are analyzed and compared in 
 * Implement the filters using Verilog HDL
 * Deploy the filter on an embedded DSP platform
 
-## 👩‍💻 Author
-
-Lasya
